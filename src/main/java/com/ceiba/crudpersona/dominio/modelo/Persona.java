@@ -8,7 +8,7 @@ public class Persona {
     private String segundoApellido;
     private String noDocumento;
 
-    public Persona(String primerNombre, String segundoNombre, String primerApellido, String segundoApellido ){
+    public Persona(String primerNombre, String segundoNombre, String primerApellido, String segundoApellido, String noDocumento ){
 
     }
 }
