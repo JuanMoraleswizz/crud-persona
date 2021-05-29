@@ -15,4 +15,8 @@ public class Persona {
         this.segundoApellido = segundoApellido;
         this.noDocumento = noDocumento;
     }
+
+    public void setPrimerNombre(String primerNombre){
+        this.primerNombre = primerNombre;
+    }
 }
